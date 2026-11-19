@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,50185,t=>{"use strict";var n=t.i(43476);t.s(["PrintButton",0,function(){return(0,n.jsx)("button",{type:"button",onClick:()=>print(),className:"cv-action",children:"Print"})}])}]);

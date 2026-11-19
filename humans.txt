@@ -1,0 +1,17 @@
+/* TEAM */
+Built by: Shayan Montazeri
+Contact: shayanmontazeri81 [at] gmail.com
+From: a lab notebook
+
+/* THANKS */
+Dr. A. V. Hershey (U.S. National Bureau of Standards) and James Hurt, for the Hershey stroke fonts
+the resident writes with. The EMS stroke fonts are derivatives of fonts under the SIL Open Font
+License, from Evil Mad Scientist's Hershey Text.
+IBM Plex Sans and Mono (SIL OFL 1.1), Instrument Serif (SIL OFL 1.1).
+Ben Golus, for the derivative-based grid lines the background is drawn with.
+
+/* SITE */
+Standards: HTML, CSS, WebGL2, TypeScript
+Components: Next.js, React. No graphics engine; the shaders are hand-written.
+Physics: leapfrog gravity, RK4 double pendulum, a cloud-in-cell liquid. All tested.
+Excitement level: within normal range.
